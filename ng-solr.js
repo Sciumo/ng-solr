@@ -1,0 +1,7 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var solr_select_component_1 = require("./src/solr-select.component");
+exports.SolrSelectComponent = solr_select_component_1.SolrSelectComponent;
+var solr_module_1 = require("./src/solr.module");
+exports.SolrModule = solr_module_1.SolrModule;
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoibmctc29sci5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIm5nLXNvbHIudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6Ijs7QUFBQSxxRUFBZ0U7QUFHNUMsOEJBSFosMkNBQW1CLENBR1k7QUFGdkMsaURBQTZDO0FBRXJDLHFCQUZBLHdCQUFVLENBRUEiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQge1NvbHJTZWxlY3RDb21wb25lbnR9IGZyb20gJy4vc3JjL3NvbHItc2VsZWN0LmNvbXBvbmVudCc7XG5pbXBvcnQge1NvbHJNb2R1bGV9IGZyb20gJy4vc3JjL3NvbHIubW9kdWxlJztcblxuZXhwb3J0IHtTb2xyTW9kdWxlLCBTb2xyU2VsZWN0Q29tcG9uZW50fTtcblxuIl19

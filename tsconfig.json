@@ -1,0 +1,30 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": true,
+    "module": "commonjs",
+    "target": "es5",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "inlineSourceMap": true,
+    "inlineSources": true,
+    "declaration": true,
+    "moduleResolution": "node",
+    "types": [
+      "hammerjs",
+      "jasmine",
+      "node"
+    ],
+    "lib": ["es2015", "dom"]
+  },
+  "files": [
+    "ng-solr.ts",
+    "src/solr.ts",
+    "src/solr.service.ts",
+    "src/solr.module.ts",
+    "src/solr-select.component.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "bundles"
+  ]
+}
